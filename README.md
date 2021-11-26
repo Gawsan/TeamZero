@@ -5,6 +5,7 @@
 <ul>
   <li>Create branch name as your wish</li>
   <li>Create valid contribution</li>
+  <li>hi</li>
   <li> Always put Valid message for every push </li>
   </ul>
   
